@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/pt-BR/view/simp%C3%A1tico-gif-21141046" width="100"/>
+  <img src=https://media.giphy.com/media/Q7pajdhJTH4M03vE1k/giphy.gif" width="100"/>
 </div>
