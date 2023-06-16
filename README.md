@@ -1,7 +1,7 @@
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
-<img align="center" height="200" src="https://media.giphy.com/media/d5XhMLvubgcV6x1gVs/giphy.gif"/>
+<img align="center" height="200" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif"/>
 
 ###
 
