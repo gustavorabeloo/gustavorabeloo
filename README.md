@@ -39,11 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavorabeloo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=true&order=1" height="125" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gustavorabeloo&locale=pt-br&mode=daily&theme=ocean_dark&hide_border=true&border_radius=5&date_format=n/j[/Y]&order=3" height="125" alt="streak graph"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155swesxl62w7a7zpk4lydkui54"  />
 </div>
 
 ###
