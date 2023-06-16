@@ -1,7 +1,7 @@
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
-<div>
+<div align="center">
 
 <img align="left" height="200" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif"/>
 <img align="left" height="200" src="https://media.giphy.com/media/YoBdjzqa0M6cP5lAYb/giphy.gif"/>
@@ -9,9 +9,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/enmig3Q5cVUzwkaZfU/giphy.gif"/>
 <img align="left" height="200" src="https://media.giphy.com/media/NpMOXmJNHFD3IO9Xto/giphy.gif"/>
 
-
-</div></br>
-
+</div>
 ###
 
 ```diff
