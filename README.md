@@ -11,12 +11,10 @@
 
 ###
 
-<div>
   
   <img style="margin-top" align="right" height="200" src="https://i.redd.it/ayi0xce9yb7a1.gif"/>
   <p align="left">👋 Eai, me chamo Gustavo Rabelo, segue mais um pouco sobre mim:<br><br>✨ Criando bugs desde 2019.<br>📚 Atualmente Tec. Informática e cursando Engenharia de Software pela UFC - Universidade Federal do Ceará.<br>🎯 Conhecimentos: Python, C, Java, JavaScript, Node.js, HTML, CSS, Flask, MongoDB, Git.</p>
 
-</div>
 
 ###
 
