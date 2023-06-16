@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Sobre mim</h2>
+<h1 align="left">👨‍💻 Sobre mim</h2>
 
 ###
   
@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="left">📎 Redes Sociais</h1>
+<h2 align="left">📎 Redes Sociais</h1>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="50" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
