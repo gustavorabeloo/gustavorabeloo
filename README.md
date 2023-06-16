@@ -11,8 +11,8 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media.giphy.com/media/VJiQRddV3K46dL4u2o/giphy.gif"  />
+<div>
+  <img style="margin-top" height="200" src="https://media.giphy.com/media/VJiQRddV3K46dL4u2o/giphy.gif"  />
   <p>👋 Eai, me chamo Gustavo Rabelo, segue mais um pouco sobre mim:<br><br>✨ Criando bugs desde 2019.<br>📚 Atualmente Tec. Informática e cursando Engenharia de Software pela UFC - Universidade Federal do Ceará.<br>🎯 Conhecimentos: Python, C, Java, JavaScript, Node.js, HTML, CSS, Flask, MongoDB, Git.</p>
 </div>
 
