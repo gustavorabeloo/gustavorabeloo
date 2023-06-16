@@ -34,6 +34,8 @@
 
 ###
 
+ <img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
+
 <h2 align="left">📎 Redes Sociais</h1>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="50" alt="discord logo"  />
@@ -41,6 +43,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
 </div>
 
+ <img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
 ###
 
 <h2 align="left"> 🎶 Músicas</h2>
