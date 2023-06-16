@@ -51,7 +51,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavorabeloo.gustavorabeloo&left_color=purple&right_color=black"  />
 </div>
 
