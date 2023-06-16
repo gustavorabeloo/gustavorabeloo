@@ -1,5 +1,5 @@
 
-<h2 align="left">👨‍💻 - Sobre mim</h2>
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
 <div align="center">
 <img height="300" src="https://media.giphy.com/media/rBodBIYwtWVOBUXQBp/giphy.gif"/>
@@ -14,7 +14,7 @@
 🎯 Conhecimentos: Python, C, Java, JavaScript, Node.js, HTML, CSS, Flask, MongoDB, Git.
 ```
 
-<h2 align="left">🔥 - Hard Skills</h2>
+<h2 align="left">🔥 Hard Skills</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -30,14 +30,14 @@
 
 ###
 
-<h2 align="left"> 🎶 - Músicas</h2>
+<h2 align="left"> 🎶 Músicas</h2>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155swesxl62w7a7zpk4lydkui54&width=1000"  />
 </div>
 
 ###
 
-<h2 align="left">📊 - Estatística</h1>
+<h2 align="left">📊 Estatística</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavorabeloo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&border_radius=15&order=1" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=gustavorabeloo&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=15&date_format=n/j[/Y]&order=3" height="200" alt="streak graph"  />
@@ -45,7 +45,7 @@
 
 
 
-<h1> 📍 - Redes Sociais</h1>
+<h1> 📍 Redes Sociais</h1>
 <div>
     
   <div align="center">
