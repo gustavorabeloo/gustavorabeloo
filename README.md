@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155swesxl62w7a7zpk4lydkui54"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155swesxl62w7a7zpk4lydkui54&width=400"  />
 </div>
 
 ###
