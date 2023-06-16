@@ -44,14 +44,14 @@
 </div>
 
 <div>
-  
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavorabeloo.gustavorabeloo&left_color=purple&right_color=black"  />
   <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
 
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavorabeloo.gustavorabeloo&left_color=purple&right_color=black"  />
+
   
   </div>
 </div>
