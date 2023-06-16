@@ -1,6 +1,8 @@
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
+<img src="https://media.giphy.com/media/d5XhMLvubgcV6x1gVs/giphy.gif"/>
+
 ###
 
 ```diff
