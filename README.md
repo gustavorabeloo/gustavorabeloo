@@ -44,5 +44,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavorabeloo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&border_radius=15&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=gustavorabeloo&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=15&date_format=n/j[/Y]&order=3" height="200" alt="streak graph"  />
+</div>
 
 
