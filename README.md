@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left"> 🎶 Músicas:</h2>
+<h2 align="left" style="background-color: #15ed48;"> 🎶 Músicas</h2>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155swesxl62w7a7zpk4lydkui54&width=1000"  />
 </div>
