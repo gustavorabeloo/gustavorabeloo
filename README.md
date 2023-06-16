@@ -1,9 +1,9 @@
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
-
-<img align="center" height="300" src="https://media.giphy.com/media/FvTiU4YpDE4fs5NulS/giphy.gif"/>
-
+<div align="center">
+<img height="300" src="https://media.giphy.com/media/FvTiU4YpDE4fs5NulS/giphy.gif"/>
+</div>
 
 ###
 
