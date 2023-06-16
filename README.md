@@ -14,6 +14,8 @@
 🎯 Conhecimentos: Python, C, Java, JavaScript, Node.js, HTML, CSS, Flask, MongoDB, Git.:<br>
 </p>
 
+<br><br><br><br><br><br><br><br><br><br>
+
 <h2 align="left">🔥 Hard Skills</h2>
 
 <div align="center">
