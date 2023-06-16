@@ -28,7 +28,9 @@
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
 ###
+
 <h2 align="left"> 🎶 Músicas</h2>
 <div align="center">
    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155swesxl62w7a7zpk4lydkui54&width=1000"  />
