@@ -2,7 +2,7 @@
 
 ###
   
-  <img align="center" height="500" src="https://tenor.com/pt-BR/view/line-rainbow-bar-gif-14589887"/>
+  <img align="center" height="500" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
 
 ```diff
 👋 Eai, me chamo Gustavo Rabelo, segue mais um pouco sobre mim:
