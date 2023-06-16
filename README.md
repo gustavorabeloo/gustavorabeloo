@@ -2,7 +2,7 @@
 
 ###
   
-  <img align="right" height="200" src="https://media.giphy.com/media/tpxvBMpmsul0vSDkHh/giphy.gif"/>
+  <img align="right" height="200" src="https://media.giphy.com/media/Kr0wtThKsdJo8y2S8P/giphy.gif"/>
 
 ```diff
 👋 Eai, me chamo Gustavo Rabelo, segue mais um pouco sobre mim:
