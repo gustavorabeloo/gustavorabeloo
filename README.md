@@ -1,4 +1,3 @@
-<img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
@@ -12,9 +11,6 @@
 ✨ Criando bugs desde 2019.
 📚 Cursando Engenharia de Software pela UFC - Universidade Federal do Ceará.
 🎯 Conhecimentos: Python, C, Java, JavaScript, Node.js, HTML, CSS, Flask, MongoDB, Git.
-```
- <img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
-
 
 <h2 align="left">🔥 Hard Skills</h2>
 
@@ -33,8 +29,6 @@
 </div>
 
 ###
-
- <img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
 
 <h2 align="left">📎 Redes Sociais</h1>
 <div align="center">
