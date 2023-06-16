@@ -1,8 +1,10 @@
+<img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
+
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 ###
   
-  <img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
+ 
 
 ```diff
 👋 Eai, me chamo Gustavo Rabelo, segue mais um pouco sobre mim:
