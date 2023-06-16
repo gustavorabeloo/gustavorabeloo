@@ -43,7 +43,7 @@
   <img src="https://streak-stats.demolab.com?user=gustavorabeloo&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=15&date_format=n/j[/Y]&order=3" height="200" alt="streak graph"  />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
@@ -51,7 +51,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavorabeloo.gustavorabeloo&left_color=purple&right_color=black"  />
 </div>
 
