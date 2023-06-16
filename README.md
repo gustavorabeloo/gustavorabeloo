@@ -43,8 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=gustavorabeloo&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=15&date_format=n/j[/Y]&order=3" height="200" alt="streak graph"  />
 </div>
 
+<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabeloo2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-rabelo-9112a2227/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gustavorabeloo) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gustavorabeloo[&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gustavorabeloo[&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorabeloo[&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
