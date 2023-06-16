@@ -43,4 +43,7 @@
   <img src="https://streak-stats.demolab.com?user=gustavorabeloo&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=15&date_format=n/j[/Y]&order=3" height="200" alt="streak graph"  />
 </div>
 
-
+<p align="left">
+<a href="https://twitter.com/gustavorabeloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustavorabeloo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gustavo-rabelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-rabelo" height="30" width="40" /></a>
+<a href="https://instagram.com/rabeloo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabeloo2" height="30" width="40" /></a>
