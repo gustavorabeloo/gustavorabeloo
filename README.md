@@ -7,7 +7,7 @@
 
 ###
 
-<p align="right">
+<p align="left">
 👋 Eai, me chamo Gustavo Rabelo, segue mais um pouco sobre mim:
 ✨ Criando bugs desde 2019.
 📚 Cursando Engenharia de Software pela UFC - Universidade Federal do Ceará.
