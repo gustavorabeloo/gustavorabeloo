@@ -48,12 +48,8 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3155swesxl62w7a7zpk4lydkui54)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://{PROJECT_NAME}.vercel.app/api" alt="Current Spotify Song">
+</a>
 
 ###
