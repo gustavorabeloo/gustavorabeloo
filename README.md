@@ -12,11 +12,11 @@
 🎯 Conhecimentos: Python, C, Java, JavaScript, Node.js, HTML, CSS, Flask, MongoDB, Git.
 ```
 
-<img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
+
 
 <h2 align="left">🔥 Hard Skills</h2>
 
-###
+<img align="center" src="https://media.tenor.com/9WKtYEMzhlAAAAAd/line-rainbow.gif"/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
