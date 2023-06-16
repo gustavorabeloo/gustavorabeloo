@@ -1,15 +1,6 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
-</div>
-
-###
-
   
   <img style="margin-top" align="right" height="350" src="https://media.giphy.com/media/tpxvBMpmsul0vSDkHh/giphy.gif"/>
   <p align="left">👋 Eai, me chamo Gustavo Rabelo, segue mais um pouco sobre mim:<br><br>✨ Criando bugs desde 2019.<br>📚 Atualmente Tec. Informática e cursando Engenharia de Software pela UFC - Universidade Federal do Ceará.<br>🎯 Conhecimentos: Python, C, Java, JavaScript, Node.js, HTML, CSS, Flask, MongoDB, Git.</p>
@@ -33,6 +24,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h1 align="left">📎 Redes Sociais</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
 </div>
 
 ###
