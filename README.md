@@ -49,7 +49,7 @@
 ###
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotifygit-eight.vercel.app/" alt="Current Spotify Song">
+  <img src="https://spotifygit-eight.vercel.app/api" alt="Current Spotify Song">
 </a>
 
 ###
