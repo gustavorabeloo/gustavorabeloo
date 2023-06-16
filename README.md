@@ -41,11 +41,6 @@
 
 ###
 
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotifygit-eight.vercel.app/api" alt="Current Spotify Song">
-</a>
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavorabeloo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=gustavorabeloo&locale=pt-br&mode=daily&theme=ocean_dark&hide_border=true&border_radius=5&date_format=n/j[/Y]&order=3" height="125" alt="streak graph"  />
